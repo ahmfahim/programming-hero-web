@@ -1,0 +1,211 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    width: 1400px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo img{
+    width: 160px;
+    height: 100px;
+    float: left;
+    margin-top: -30px;
+}
+.logo-name{
+    margin-top: 35px;
+}
+span{
+    font-weight: 100;
+}
+.navbar{
+    margin-left: 360px;
+}
+.navbar li{
+    list-style: none;
+    float: left;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    margin-top: -5px;
+
+}
+
+.navbar li a{
+    text-decoration: none;
+}
+.last-link a{
+    background-image: linear-gradient(90deg,blue,cyan);
+    color:white;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.second-left{
+    width: 580px;
+    float: left;
+    margin-top:150px ;
+}
+.second-left h1{
+    font-size: 80px;
+    margin-bottom: 50px;
+}
+.second-left p{
+    color: dimgray;
+
+}
+.google-btn{
+    margin-top: 50px;
+}
+.second-right img{
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 40px;
+}
+.second-right img:hover{
+    transform: rotate(360deg);
+    transition: 5s;
+}
+
+.third-section h1{
+    margin-left: 450px;
+    font-size: 40px;
+    margin-top: 100px;
+}
+.glaxy-img img{
+    margin-left: 450px;
+    margin-top: 100px;
+}
+.glaxy-img:hover{
+    transform: rotate(-5deg);
+    transition: 5s;
+}
+.game{
+    margin-top: -545px;
+    margin-left: 470px;
+    
+}
+.game img{
+    width: 90px;
+    height: 90px;
+}
+.learn{
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.learn img{
+    width: 100px;
+    height: 100px;
+}
+.gain{
+    margin-top: 90px;
+    margin-left: 470px;
+}
+.gain img{
+    width: 90px;
+    height: 90px;
+}
+.winner img{
+    width: 100px;
+    height: 100px;
+}
+.winner{
+    margin-left: 954px;
+    margin-top: -495px;
+}
+.friendly img{
+    width: 100px;
+    height: 100px;
+}
+.friendly{
+    margin-left: 1025px;
+    margin-top: 80px;
+}
+.master img{
+    width: 90px;
+    height: 90px;
+}
+.master{
+    margin-left: 980px;
+    margin-top: 105px;
+}
+.game-article h1{
+    font-size: 25px;
+    margin-bottom:10px;
+}
+.game-article p{
+    color: dimgray;
+}
+.game-article{
+    width:280px;
+    text-align: right;
+    margin-top: -490px;
+    margin-left:180px ;
+}
+.learn-article h1{
+    font-size: 25px;
+    margin-bottom:10px;
+}
+.learn-article p{
+    color: dimgray;
+}
+.learn-article{
+    width:270px;
+    text-align: right;
+    margin-top: 110px;
+    margin-left:120px ;
+}
+.winner-article h1{
+    font-size: 25px;
+    margin-bottom:10px;
+}
+.winner-article p{
+    color: dimgray;
+}
+.gain-article{
+    width:270px;
+    text-align: right;
+    margin-top: 115px;
+    margin-left:190px ;
+}
+.winner-article h1{
+    font-size: 25px;
+    margin-bottom:10px;
+}
+.winner-article p{
+    color: dimgray;
+}
+.winner-article{
+    width:270px;
+    text-align: left;
+    margin-top: -460px;
+    margin-left:1060px;
+}
+.friendly-article h1{
+    font-size: 25px;
+    margin-bottom:10px;
+}
+.friendly-article p{
+    color: dimgray;
+}
+.friendly-article{
+    width:260px;
+    text-align: left;
+    margin-top: 100px;
+    margin-left:1130px;
+}
+.master-article h1{
+    font-size: 25px;
+    margin-bottom:10px;
+}
+.master-article p{
+    color: dimgray;
+}
+.master-article{
+    width:260px;
+    text-align: left;
+    margin-top: 110px;
+    margin-left:1080px;
+}
